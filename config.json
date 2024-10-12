@@ -3,7 +3,7 @@
 	"port": 18311,
 	"name": "MR_MR11",
 	"auto-night-skip":"false",
-	"login-enabled":"true",
+	"login-enabled":"false",
 	"register-cmd":"/register MR_MR121 MR_MR121",
 	"login-cmd":"/login MR_MR121"
 }
